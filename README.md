@@ -24,13 +24,12 @@
 
 - `index.html` – main page structure
 - `style.css` – styling the page
-- `script.js` – age calculation logic
+- `index.js` – age calculation logic
 - `README.md` – project description
 
 ## 📸 Screenshot
 
-*(Optional: Add a screenshot here)*  
-`![Screenshot](screenshot.png)`
+![Screenshot](https://github.com/user-attachments/assets/520ba29c-e86d-455e-9fd4-fe9a2f4f8e80)
 
 ## 📌 How to Run
 
