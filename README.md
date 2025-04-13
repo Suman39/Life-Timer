@@ -4,7 +4,7 @@
 
 ## 🌐 Live Demo
 
-👉 [Click here to try Life Timer](https://suman39.github.io/Life-Timer/)
+👉 [Click here to try Life Timer](https://sumanshee39190.github.io/Life-Timer/)
 
 ## 🚀 Features
 
