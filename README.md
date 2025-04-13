@@ -31,13 +31,6 @@
 
 ![Screenshot](https://github.com/user-attachments/assets/520ba29c-e86d-455e-9fd4-fe9a2f4f8e80)
 
-## 📌 How to Run
-
-1. Clone the repo  
-   `git clone https://github.com/Suman39/Life-Timer.git`
-
-2. Open `index.html` in your browser  
-   That’s it!
 
 ## 👨‍💻 Author
 
